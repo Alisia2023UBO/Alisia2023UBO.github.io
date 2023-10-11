@@ -1,6 +1,6 @@
 ### Orecchiette alle cime di rapa
 
-![alt text](https://github.com/Alisia2023UBO/troisrecettesitaliennes/blob/main/cime%20rapa.jpg)
+![alt text](orecchiette-con-cime-di-rapa-recipe.jpg)
 
 Les orecchiette con le cime di rapa, également appelées "recchitelle" ou "strascinati", sont l'un des plats les plus représentatifs des 
 Pouilles. Le secret de ce plat réside dans la cuisson optimale des légumes avec les pâtes ; l'expérience et la connaissance des matières 
