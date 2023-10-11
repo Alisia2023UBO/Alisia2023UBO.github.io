@@ -29,7 +29,7 @@ minutes.
 
 ### Friselle au tomates
 
-![alt text](https://github.com/Alisia2023UBO/troisrecettesitaliennes/blob/main/Friselle-con-pomodorini.jpg)
+![alt text](Friselle-con-pomodorini.jpg)
 
 La frisella, ou freselle, est un produit d'origine apulienne, mais elle est répandue dans toute l'Italie, en particulier dans le sud. Il 
 s'agit de tarallo de blé dur (ou de blé complet ou d'orge) cuit au four, à la texture dure mais parfumée. D'une part, il est plus poreux 
