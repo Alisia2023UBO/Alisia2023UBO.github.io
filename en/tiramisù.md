@@ -1,3 +1,5 @@
+*FRENCH VERSION*
+
 ### Tiramisù
 
 ![alt text](tiramisu-classico.jpg)
@@ -33,6 +35,6 @@ Cocoa              |  250 gr of savoiardi (biscuits)
 10. Then add the mascarpone cream and continue with the cookies to make two layers.
 11. When the tiramisù is complete, add cocoa.
 
-[Retour à la page d'accueil](README.md)
+[Homepage](README.md)
 
-[Plat suivant: pasta al pesto](pesto.md)
+[Next dish: pasta al pesto](pesto.md)
