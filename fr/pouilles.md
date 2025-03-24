@@ -52,4 +52,4 @@ et donc prédisposé à recevoir l'assaisonnement, d'autre part, il est plus lis
 
 Comme vous voyez, la préparation des _friselles_ est extremement simple et rapide, parfaite pour un déjeuner d'été. 
 
-[Homepage](README.md)
+[Page d'accueil](README.md)
