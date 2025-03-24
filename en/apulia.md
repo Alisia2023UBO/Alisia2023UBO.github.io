@@ -1,3 +1,5 @@
+*FRENCH VERSION*
+
 ### Orecchiette pasta with turnip tops
 
 ![alt text](orecchiette-con-cime-di-rapa-recipe.jpg)
@@ -47,4 +49,4 @@ One side is more porous, making it ideal for absorbing seasoning, while the othe
 As you can see, preparing _friselle_ is extremely simple and quick, making it a perfect choice for a summer lunch.
 
 
-[Retour à la page d'accueil](README.md)
+[Homepage](README.md)
