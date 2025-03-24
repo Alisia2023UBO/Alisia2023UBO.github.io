@@ -1,3 +1,5 @@
+*FRENCH VERSION*
+
 ### Pasta carbonara
 Perhaps the first dish that springs to mind is one of the most famous in Italy. The _pasta alla carbonara_ or pasta carbonara is typical of the capital city of Rome. There are many hypotheses as to its origins, but none has been confirmed. 
 
@@ -22,6 +24,6 @@ WARNING: Do not read if you are not ready to know: **THERE IS NO CREAM IN THE RE
 7. Mix the pasta with the egg yolks and guanciale.
 8. If necessary, you can add more cooking water to make it creamier.
 
-[Retour à la page d'accueil](README.md) 
+[Homepage](README.md) 
 
-[Plat suivant: tiramisu](platsdeux.md)
+[Next dish: tiramisu](platsdeux.md)
