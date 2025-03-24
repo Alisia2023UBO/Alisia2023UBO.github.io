@@ -1,3 +1,5 @@
+*VERSION ANGLAISE*
+
 ### Pasta al pesto
 
 ![alt text](ricetta-tradizionale-ligure-pesto-fatto-in-casa-3.jpg)
@@ -28,6 +30,6 @@ Voilà la recette complète!
 5. Quand tous les ingrédients ont été réduits en crème, versez l'huile et faites tourner le pilon encore quelques instants.
 6. Votre pesto est prêt à être utilisé !
 
-[Retour à la page d'accueil](README.md)
+[Homepage](README.md)
 
-[Recettes des Pouilles](pouilles.md)
+[Recipes from Apulia](pouilles.md)
