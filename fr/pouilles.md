@@ -1,3 +1,5 @@
+*VERSION ANGLAISE*
+
 ### Orecchiette alle cime di rapa
 
 ![alt text](orecchiette-con-cime-di-rapa-recipe.jpg)
@@ -50,4 +52,4 @@ et donc prédisposé à recevoir l'assaisonnement, d'autre part, il est plus lis
 
 Comme vous voyez, la préparation des _friselles_ est extremement simple et rapide, parfaite pour un déjeuner d'été. 
 
-[Retour à la page d'accueil](README.md)
+[Homepage](README.md)
