@@ -30,6 +30,6 @@ Voilà la recette complète!
 5. Quand tous les ingrédients ont été réduits en crème, versez l'huile et faites tourner le pilon encore quelques instants.
 6. Votre pesto est prêt à être utilisé !
 
-[Homepage](README.md)
+[Page d'accueil](README.md)
 
-[Recipes from Apulia](pouilles.md)
+[Recettes des Pouilles](pouilles.md)
