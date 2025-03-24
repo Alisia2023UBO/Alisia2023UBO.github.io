@@ -1,3 +1,5 @@
+*FRENCH VERSION*
+
 ## ITALIAN RECIPES
 Feel like trying some Italian food, but don't know if you're following the right recipe? 
 Here are some of the most popular recipes when it comes to Italian cuisine.
