@@ -1,3 +1,5 @@
+*VERSION ANGLAISE*
+
 ### Pasta alla carbonara (pâtes carbonara)
 Le premier plat qui me vient à l'esprit est peut-être, l'un des plus connus de toute l'Italie. La _pasta alla carbonara_ ou pâtes carbonara sont typiques de la ville de Rome, la capitale. Il y a plusieurs hypothèses qui cherchent à trouver la vrai histoire, mais aucune n'a était confirmée. 
 
@@ -22,6 +24,6 @@ ATTENTION! Ne lisez pas si vous n'êtes pas prêts à le savoir: **IL N'Y A PAS 
 7. Unissez les pâtes avec les jaunes d'oeufs et le guanciale.
 8. Si nécessaire, vous pouvez ajouter de l'eau de cuisson pour rendre le tout plus crémeux.
 
-[Retour à la page d'accueil](README.md) 
+[Homepage](README.md) 
 
-[Plat suivant: tiramisu](platsdeux.md)
+[Next dish: tiramisu](platsdeux.md)
