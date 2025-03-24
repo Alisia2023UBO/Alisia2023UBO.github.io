@@ -1,3 +1,5 @@
+*FRENCH VERSION*
+
 ### Pasta with pesto sauce
 
 ![alt text](ricetta-tradizionale-ligure-pesto-fatto-in-casa-3.jpg)
@@ -28,6 +30,6 @@ Here's the full recipe!
 5. When all the ingredients have been reduced to a creamy consistency, pour in the oil and rotate the pestle for a few moments longer.
 6. Your pesto is ready to use!
 
-[Retour à la page d'accueil](README.md)
+[Homepage](README.md)
 
-[Recettes des Pouilles](pouilles.md)
+[Recipes from Apulia](pouilles.md)
