@@ -2,7 +2,7 @@
 
 ### Pasta with pesto sauce
 
-![alt text](ricetta-tradizionale-ligure-pesto-fatto-in-casa-3.jpg)
+![alt text](../images/ricetta-tradizionale-ligure-pesto-fatto-in-casa-3.jpg)
 
 Pasta and pesto, one of Italy's signature pasta dishes and one of the tastiest summer recipes ever. Let's face it
 genovese pesto is always a feast, but when it's authentic, prepared with the right ingredients and the
