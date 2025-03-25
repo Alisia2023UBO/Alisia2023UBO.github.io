@@ -32,4 +32,4 @@ Here's the full recipe!
 
 [Homepage](README.md)
 
-[Recipes from Apulia](pouilles.md)
+[Recipes from Apulia](apulia.md)
