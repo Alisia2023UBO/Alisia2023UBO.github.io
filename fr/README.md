@@ -1,4 +1,4 @@
-*VERSION ANGLAISE*
+[*VERSION ANGLAISE*](../en/README.md)
 
 ## LES RECETTES D'ITALIE
 Vous avez envie de goûter de la nourriture italienne, mais vous ne savez pas si vous suivez la bonne recette? 
