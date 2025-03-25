@@ -1,4 +1,4 @@
-*VERSION ANGLAISE*
+[*VERSION ANGLAISE*](../en/pesto.md)
 
 ### Pasta al pesto
 
