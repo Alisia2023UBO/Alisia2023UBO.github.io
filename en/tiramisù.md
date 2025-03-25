@@ -1,4 +1,4 @@
-*FRENCH VERSION*
+[*FRENCH VERSION*](../fr/platsdeux.md)
 
 ### Tiramisù
 
