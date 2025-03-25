@@ -26,4 +26,4 @@ WARNING: Do not read if you are not ready to know: **THERE IS NO CREAM IN THE RE
 
 [Homepage](README.md) 
 
-[Next dish: tiramisu](platsdeux.md)
+[Next dish: tiramisu](tiramisù.md)
