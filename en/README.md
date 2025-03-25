@@ -1,4 +1,4 @@
-*FRENCH VERSION*
+[*FRENCH VERSION*](../fr/README.MD)
 
 ## ITALIAN RECIPES
 Feel like trying some Italian food, but don't know if you're following the right recipe? 
