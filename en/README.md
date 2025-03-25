@@ -11,6 +11,6 @@ These are **authentic** recipes, and an Italian woman guarantees it!
 
 In the following list, you'll find a selection of dishes to choose from. 
 - [Pasta alla carbonara](pastacarbonara.md)
-- [Tiramisù](platsdeux.md)
+- [Tiramisù](tiramisù.md)
 - [Pasta al pesto](pesto.md)
-- [Recettes des Pouilles](pouilles.md)
+- [Recettes des Pouilles](apulia.md)
