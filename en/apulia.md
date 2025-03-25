@@ -1,4 +1,4 @@
-*FRENCH VERSION*
+[*FRENCH VERSION*](../fr/pouilles.md)
 
 ### Orecchiette pasta with turnip tops
 
