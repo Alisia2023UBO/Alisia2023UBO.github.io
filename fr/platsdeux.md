@@ -2,7 +2,7 @@
 
 ### Tiramisù
 
-![alt text](tiramisu-classico.jpg)
+![alt text](../images/tiramisu-classico.jpg)
 
 Le deuxième plat que je vais vous présenter est le tiramisù, un dessert italien fait avec du café et de la crème fraîche. 
 Ce que j'adore particulièrement de ce plat est le nom: litteralement *tiramisu* en italien signifie _fais-moi remonter le moral_.
