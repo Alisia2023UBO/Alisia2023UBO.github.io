@@ -2,7 +2,7 @@
 
 ### Orecchiette pasta with turnip tops
 
-![alt text](orecchiette-con-cime-di-rapa-recipe.jpg)
+![alt text](../images/orecchiette-con-cime-di-rapa-recipe.jpg)
 
 Orecchiette with turnip greens, also known as "recchitelle" or "strascinati", is one of the most representative dishes of Puglia.
 The secret of this dish lies in the perfect cooking of the vegetables together with the pasta; experience and knowledge of the ingredients ensure a perfect result.
@@ -28,7 +28,7 @@ by sautéed turnip greens, a classic countryside side dish.
 
 ### Friselle with tomatoes
 
-![alt text](Friselle-con-pomodorini.jpg)
+![alt text](../images/Friselle-con-pomodorini.jpg)
 
 Frisella, or fresella, is a product of Apulian origin, but it is popular throughout Italy, especially in the south. 
 It is a baked tarallo made from durum wheat (or whole wheat or barley), with a hard yet fragrant texture. 
