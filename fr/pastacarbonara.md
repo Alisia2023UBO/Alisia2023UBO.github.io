@@ -5,7 +5,7 @@ Le premier plat qui me vient à l'esprit est peut-être, l'un des plus connus de
 
 ATTENTION! Ne lisez pas si vous n'êtes pas prêts à le savoir: **IL N'Y A PAS DE CRÈME DANS LA RECETTE!!!**
 
-![alt text](carbonara.png)
+![alt text](../images/carbonara.png)
 
 #### Ingrédients
 - 100 gr de pâtes par personne (souvent des gros spaghettis)
