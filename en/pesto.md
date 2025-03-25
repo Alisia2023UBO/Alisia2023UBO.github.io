@@ -1,4 +1,4 @@
-*FRENCH VERSION*
+[*FRENCH VERSION*](../fr/pesto.md)
 
 ### Pasta with pesto sauce
 
