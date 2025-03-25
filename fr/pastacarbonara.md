@@ -1,4 +1,4 @@
-*VERSION ANGLAISE*
+[*VERSION ANGLAISE*](../en/pastacarbonara.md)
 
 ### Pasta alla carbonara (pâtes carbonara)
 Le premier plat qui me vient à l'esprit est peut-être, l'un des plus connus de toute l'Italie. La _pasta alla carbonara_ ou pâtes carbonara sont typiques de la ville de Rome, la capitale. Il y a plusieurs hypothèses qui cherchent à trouver la vrai histoire, mais aucune n'a était confirmée. 
