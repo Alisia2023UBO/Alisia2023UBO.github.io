@@ -5,7 +5,7 @@ Perhaps the first dish that springs to mind is one of the most famous in Italy. 
 
 WARNING: Do not read if you are not ready to know: **THERE IS NO CREAM IN THE RECIPE!!!**
 
-![alt text](carbonara.png)
+![alt text](../images/carbonara.png)
 
 #### Ingredients
 - 100 g pasta per person (often large spaghetti)
