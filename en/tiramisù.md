@@ -2,7 +2,7 @@
 
 ### Tiramisù
 
-![alt text](tiramisu-classico.jpg)
+![alt text](../images/tiramisu-classico.jpg)
 
 The second dish I'm going to introduce you to is tiramisù, an Italian dessert made with coffee and crème fraîche. 
 What I particularly love about this dish is the name: literally *tiramisu* in Italian means _make me feel better_.
