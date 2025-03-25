@@ -2,7 +2,7 @@
 
 ### Orecchiette alle cime di rapa
 
-![alt text](orecchiette-con-cime-di-rapa-recipe.jpg)
+![alt text](../images/orecchiette-con-cime-di-rapa-recipe.jpg)
 
 Les orecchiette con le cime di rapa, également appelées "recchitelle" ou "strascinati", sont l'un des plats les plus représentatifs des 
 Pouilles. Le secret de ce plat réside dans la cuisson optimale des légumes avec les pâtes ; l'expérience et la connaissance des matières 
@@ -31,7 +31,7 @@ minutes.
 
 ### Friselle au tomates
 
-![alt text](Friselle-con-pomodorini.jpg)
+![alt text](../images/Friselle-con-pomodorini.jpg)
 
 La frisella, ou freselle, est un produit d'origine apulienne, mais elle est répandue dans toute l'Italie, en particulier dans le sud. Il 
 s'agit de tarallo de blé dur (ou de blé complet ou d'orge) cuit au four, à la texture dure mais parfumée. D'une part, il est plus poreux 
